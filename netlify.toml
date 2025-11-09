@@ -1,0 +1,7 @@
+# This file specifies build and deploy settings for Netlify.
+
+[build]
+  # Command to build your site
+  command = "npm run build"
+  # The directory to publish, which is 'dist' for Vite projects.
+  publish = "dist"

@@ -3,7 +3,7 @@ import { FaGithub, FaReact, FaPython, FaDesktop, FaHtml5, FaCss3Alt, FaBootstrap
 import AOS from 'aos';
 import { SiTailwindcss, SiVite, SiWebgl, SiFlask, SiRender, SiStreamlit, SiJavascript, SiOpencv } from 'react-icons/si';
 
-import todoAppScreenshot from '../assets/ToDo.png';
+import todoAppScreenshot from '../assets/todo.png';
 import calculatorScreenshot from '../assets/Calculator.png';
 import ttsScreenshot from '../assets/Ganesh-TTS.png';
 import pythonpathScreenshot from '../assets/pythonpath.png'; // Assuming this is correct

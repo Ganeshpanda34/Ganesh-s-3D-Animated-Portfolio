@@ -120,19 +120,7 @@ npm run dev
 
 Open http://localhost:5173 (or the port shown in your terminal) to view the project in your browser.
 
-### Building for Production
 
-To create an optimized production build of the application:
-
-```sh
-npm run build
-```
-
-The bundled files will be located in the `dist/` directory. You can preview the production build locally with:
-
-```sh
-npm run preview
-```
 
 ## Scripts
 
